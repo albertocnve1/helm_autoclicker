@@ -1,0 +1,1 @@
+/Users/albertocanavese/Desktop/helm_autoclicker/target.png
